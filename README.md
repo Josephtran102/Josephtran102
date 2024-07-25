@@ -19,6 +19,9 @@
 ![Joseph's GitHub stats](https://github-readme-stats.vercel.app/api?username=Josephtran102&show_icons=true&theme=holi)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Josephtran102&layout=compact&theme=catppuccin_mocha)
+## GitHub Streak
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Josephtran102&theme=dark)
 
 ## 🔗 Links
 [![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://josephtran.xyz/)
