@@ -4,7 +4,7 @@
 - 🌱 I'm currently learning advanced smart contract development
 - 👯 I'm looking to collaborate on DeFi and Web3 projects
 - 💬 Ask me about blockchain technology, cryptocurrency, and DeFi
-- 📫 How to reach me: [josephtran0505@gmail.com]
+- 📫 How to reach me: josephtran0505@gmail.com
 
 ## 🛠 Skills
 - Blockchain Development
