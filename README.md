@@ -1,10 +1,15 @@
 # Hi, I am Joseph Tran 👋
 ## 🚀 About Me
-- 🔭 I'm currently working on blockchain projects
-- 🌱 I'm currently learning advanced smart contract development
-- 👯 I'm looking to collaborate on DeFi and Web3 projects
-- 💬 Ask me about blockchain technology, cryptocurrency, and DeFi
+- 🔭 I'm currently working on blockchain projects and operating validator nodes for various networks
+- 🌱 I'm currently learning advanced smart contract development and optimizing validator performance
+- 👯 I'm looking to collaborate on DeFi, Web3 projects, and blockchain infrastructure initiatives
+- 💬 Ask me about blockchain technology, cryptocurrency, DeFi, node operation, and validator setup
+- 🏛️ I'm actively involved in running and maintaining validator nodes for multiple blockchain networks
+- 🛠️ I specialize in Proof of Stake (PoS) and Delegated Proof of Stake (DPoS) consensus mechanisms
+- 🔐 I'm passionate about blockchain security and implementing best practices for node operations
+- 📊 I participate in network governance and contribute to protocol upgrades
 - 📫 How to reach me: josephtran0505@gmail.com
+- ⚡ Fun fact: I've helped secure significant amounts of staked assets across various networks
 
 ## 🛠 Skills
 - Blockchain Development
@@ -21,7 +26,7 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Josephtran102&layout=compact&theme=catppuccin_mocha)
 ## GitHub Streak
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Josephtran102&theme=dark)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Josephtran102&theme=gotham)
 
 ## 🔗 Links
 [![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://josephtran.xyz/)
