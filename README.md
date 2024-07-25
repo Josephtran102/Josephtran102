@@ -31,6 +31,7 @@
 ## 🔗 Links
 [![Website](https://img.shields.io/badge/Website-3b5998?style=for-the-badge&logo=google-chrome&logoColor=white)](https://josephtran.xyz/)
 [![Website](https://img.shields.io/badge/Website-josephtran.xyz-blue?style=for-the-badge)](https://josephtran.xyz/)
+[![Website](https://img.shields.io/badge/Website-josephtran.xyz-FF5733?style=for-the-badge)](https://josephtran.xyz/)
 [![twitter](https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/josephtran102)
 [![telegram](https://img.shields.io/badge/telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/josephtran)
 [![discord](https://img.shields.io/badge/discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discordapp.com/users/597430737440079883)
