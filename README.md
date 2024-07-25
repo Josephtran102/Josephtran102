@@ -24,12 +24,5 @@
 [![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://josephtran.xyz/)
 [![twitter](https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/yourusername)
 
-## 🏆 Achievements
-- [Any notable achievements or certifications]
-
-## 📚 Latest Blog Posts
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
-
 ## 🤝 Open for Collaboration
 I'm always interested in working on exciting blockchain and Web3 projects. If you have any ideas or proposals, feel free to reach out!
