@@ -8,7 +8,7 @@
 - 🛠️ I specialize in Proof of Stake (PoS) and Delegated Proof of Stake (DPoS) consensus mechanisms
 - 🔐 I'm passionate about blockchain security and implementing best practices for node operations
 - 📊 I participate in network governance and contribute to protocol upgrades
-- 📫 How to reach me: josephtran0505@gmail.com
+- 📫 How to reach me: josephtran@j-node.net
 - ⚡ Fun fact: I've helped secure significant amounts of staked assets across various networks
 
 ## 🛠 Skills
